@@ -4,6 +4,8 @@ For Ventura OS
 
 EFI for Lenovo H50-50 "work in progress"
 
+[H50-50](https://icecat.biz/rest/product-pdf?productId=26427811&lang=it)
+
 ---
 Hardware:
 
