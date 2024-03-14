@@ -4,7 +4,7 @@ For Ventura OS
 
 EFI for Lenovo H50-50 "work in progress"
 
-
+---
 Hardware:
 
 Core i7 4790 / 3.6 GHz.
@@ -17,4 +17,4 @@ DVD-Writer (not working)
 
 HD Graphics 4600.
 
-Nvidia GTX 745 (you need install nvidia web driver to use it)
+Nvidia GTX 745 (you need install nvidia web driver to use it) [here](https://github.com/dortania/OpenCore-Legacy-Patcher)
