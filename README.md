@@ -4,6 +4,7 @@ For Ventura OS
 
 EFI for Lenovo H50-50 "work in progress"
 
+
 Hardware:
 
 Core i7 4790 / 3.6 GHz.
