@@ -1,4 +1,4 @@
-# h50-50
+# H50-50
 
 For Ventura OS
 
